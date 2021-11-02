@@ -14,3 +14,6 @@ Digitize companies in Latin America and North America with the development of mo
 We believe everyone deserves to have a website or online store. Our goal is to help businesses with their sales workflow and web marketing strategies with our technical skills. We are the solution offshore to avoid the financial barriers to develop websites that will cost around +20k USD.
 
 Today, we're proud to empower individuals and business owners around the world. Innovation and simplicity makes us happy. Everyone deserves a great website, and we're excited to be part of.
+
+Visit our 🌎[Website](https://lazzo.io "Lazzo Homepage")
+and our ✏ [Blog](https://blog.lazzo.io "Blog")
